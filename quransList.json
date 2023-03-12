@@ -1,0 +1,10 @@
+{
+    "quranList":[
+        {"title":"Arabic", "file":"https://firebasestorage.googleapis.com/v0/b/masjid-mode-data.appspot.com/o/holy-quran-in-arabic_compressed.pdf?alt=media&token=9c4fa01e-c435-4eb2-979f-ca3101ef4743"},
+        {"title":"Telugu", "file":""},
+        {"title":"Kannada", "file":""},
+        {"title":"Tamil", "file":""},
+        {"title":"Malayalam", "file":""},
+        {"title":"Hindi", "file":""}
+    ]
+}

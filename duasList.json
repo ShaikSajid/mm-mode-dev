@@ -1,0 +1,30 @@
+{
+    "duasList":[
+        {"category":"Masjid", "list":[
+            {"when":"Entering the masjid","dua":"اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ","meaning":"O Allah, open the gates of Your mercy for me","reference":"Abû Dâwud [466]."},
+            {"when":"Leaving the masjid","dua":"اللَّهُمَّ إِنِّي أَسْأَلُكَ مِنْ فَضْلِكَ ","meaning":" O Allah, I ask You from Your favor.","reference":"Al-Hâkim (1/218), Al-Baihaqî (2/442) and Al-Albânî declared it ĥasan in Silsilah Al-Ahâdîth Aŝ-Ŝaĥîĥah [2478](5/624)"}
+        ]},
+        {"category":"Toilet", "list":[
+            {"when":"Before entering toilet","dua":"اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبْثِ وَالْخَبَائِثِ","meaning":" O Allah, I take refuge with you from all evil and evil-doers","reference":"Al-Bukhârî [142](1/45) and Muslim [375](1/283)"},
+            {"when":"After leaving toilet","dua":"غُفْرَانَكَ","meaning":"I ask You (Allah) for forgiveness.","reference":"At-Tirmidhî [7], Abû Dâwud [30], Ibn Mâjah [300]" }
+        ]},
+        {"category":"Home", "list":[
+            {"when":"When Leaving home","dua":"بِسْمِ اللهِ، تَوَكَّلْتُ عَلَى اللهِ، وَلاَحَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ","meaning":"In the name of Allah, I place my trust in Allah, and there is no might nor power except with Allah.","reference":"Abû Dâwud [5094](4/325) and At-Tirmidhî [3427](5/490)."},
+            {"when":"Upon entering home","dua":"بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى اللهِ رَبَّنَا تَوَكَّلْنَا","meaning":"In the name of Allah we enter and in the name of Allah we leave, and upon our Lord we place our trust.","reference":"Abû Dâwud [5096](4/325) "}
+        ]},
+        {"category":"Sleep", "list":[
+            {"when":"Before sleeping","dua":"بِاسْمِكَ اللَّهُمَّ أَموتُ وَأحْيَا","meaning":"In Your name O Allah, I live and die.","reference":"Abû Dâwud [5045](4/311)."},
+            {"when":"Upon waking up","dua":"اَلحَمدُ لِلهِ الَّذِي أحيَانَا بَعْدَ مَا أمَاتَنَا وَ إِلَيهِ النُّشُورُ","meaning":"Praise is to Allah Who gives us life after He has caused us to die and to Him is the return.","reference":"Al-Bukhârî [6312]"}
+        ]},
+        {"category":"Ramadan", "list":[
+            {"when":"Iftar","dua":"اَللّٰهُمَّ اِنَّی لَکَ صُمْتُ وَبِکَ اٰمَنْتُ وَعَلَيْکَ تَوَکَّلْتُ وَعَلٰی رِزْقِکَ اَفْطَرْتُ","meaning":"O Allah! I fasted for you and I believe in you and I put my trust in You and I break my fast with your sustenance.","reference":""},
+            {"when":"1st Ashra Dua","dua":"يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغيثُ","meaning":"Oh Everliving, The Everlasting, I seek Your help through Your mercy.","reference":""},
+            {"when":"2nd Ashra Dua","dua":"اَسْتَغْفِرُ اللہَ رَبِّی مِنْ کُلِّ زَنْبٍ وَّ اَتُوْبُ اِلَیْہِ","meaning":"I seek forgiveness from Allah for all my sins and turn to Him.","reference":""},
+            {"when":"3nd Ashra Dua","dua":"اَللَّهُمَّ أَجِرْنِي مِنَ النَّارِ","meaning":"O Allah, save me from the fire (Jahannam).","reference":""}
+        ]}
+
+
+
+
+    ]
+}
